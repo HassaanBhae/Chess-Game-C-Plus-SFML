@@ -1,0 +1,3 @@
+g++ -ID:\Project\SFML-2.6.1\include -c test.cpp -o test.o
+
+g++ -LD:\Project\SFML-2.6.1\lib .\test.o -o app.exe -lsfml-graphics -lsfml-window -lsfml-system
