@@ -1,3 +1,8 @@
-g++ -ID:\Project\SFML-2.6.1\include -c test.cpp -o test.o
+Adjust to your folder path as needed
 
-g++ -LD:\Project\SFML-2.6.1\lib .\test.o -o app.exe -lsfml-graphics -lsfml-window -lsfml-system
+C:\Users\KAPITAN\Desktop\Project\main.cpp
+
+g++ -IC:\Users\KAPITAN\Desktop\Project\SFML-2.6.1\include -c main.cpp -o main.o
+
+g++ -LC:\Users\KAPITAN\Desktop\Project\SFML-2.6.1\lib .\main.o -o Chess.exe -lsfml-graphics -lsfml-window -lsfml-system
+
