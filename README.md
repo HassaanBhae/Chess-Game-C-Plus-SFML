@@ -4,8 +4,10 @@ I made this Chess game for 2 players using C++ and SFML without any game engines
   
   
 It follows all the chess rules(not completed yet).
+
 Main menu is yet to be Added.
-Press Space to Undo A Move
+
+Press Space to Undo A Move.
 
 <img width="427" alt="Screenshot 2024-07-30 201728" src="https://github.com/user-attachments/assets/ff2e26e4-b5b9-4fab-b4e8-6fde50e46c94">
 
